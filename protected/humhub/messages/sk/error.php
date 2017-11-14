@@ -17,13 +17,13 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<strong>Login</strong> required' => '',
-    'An internal server error occurred.' => '',
-    'Guest mode not active, please login first.' => '',
-    'Login required for this section.' => '',
-    'You are not allowed to perform this action.' => '',
-    'You are not permitted to access this section.' => '',
-    'You need admin permissions to access this section.' => '',
-    'Your user account has not been approved yet, please try again later or contact a network administrator.' => '',
-    'Your user account is inactive, please login with an active account or contact a network administrator.' => '',
+    '<strong>Login</strong> required' => 'Musíte sa <strong>prihlásiť</strong>',
+    'An internal server error occurred.' => 'Nastala interná chyba serveru.',
+    'Guest mode not active, please login first.' => 'Verejný mód nie je aktívny, prihláste sa prosím.',
+    'Login required for this section.' => 'Do tejto časti je nutné sa prihlásiť.',
+    'You are not allowed to perform this action.' => 'Táto akcia pre vás nie je povolená.',
+    'You are not permitted to access this section.' => 'Prístup do tejto časti nemáte povolený.',
+    'You need admin permissions to access this section.' => 'Do tejto časti potrebujete administrátorské práva.',
+    'Your user account has not been approved yet, please try again later or contact a network administrator.' => 'Váš používateľský účet ešte nebol schválený, skúste neskôr alebo kontaktujte administrátora.',
+    'Your user account is inactive, please login with an active account or contact a network administrator.' => 'Váš používateľský účet nie je aktívny, skúste iný účet alebo kontaktujte administrátora.',
 ];
